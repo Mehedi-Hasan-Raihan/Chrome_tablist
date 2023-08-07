@@ -1,10 +1,11 @@
 body{
-    background-color: rgb(2, 60, 11);
+    background-color: white;
     margin: 0px;
 }
-.headline{
-text-align: center;
-font-size: 200%;
+h1{
+    font-size: 90px;
+    text-align: center;
+    color: darkred;
 }
 li{
     text-decoration: none;
@@ -16,7 +17,7 @@ li{
     width: auto;
     font-weight: bold;
     font-size: 25px;
-    width: 40%;
+    width: 100%;
 }
 p{
     
@@ -27,9 +28,18 @@ p{
     width: auto;
     font-weight: bold;
     font-size: 45px;
-    width: 40%;
+    width: 100%;
 }
 
 .highlight{
     background-color: rgb(209, 140, 13);
+}
+a{
+    color: black;
+    font-family: monospace;
+    font-size: 35px;
+    text-decoration: none;
+}
+div{
+    float: left;
 }
