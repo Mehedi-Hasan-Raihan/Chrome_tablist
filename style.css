@@ -6,3 +6,30 @@ body{
 text-align: center;
 font-size: 200%;
 }
+li{
+    text-decoration: none;
+    color: black;
+    background-color: rgb(4, 190, 247);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: auto;
+    font-weight: bold;
+    font-size: 25px;
+    width: 40%;
+}
+p{
+    
+    color: black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: auto;
+    font-weight: bold;
+    font-size: 45px;
+    width: 40%;
+}
+
+.highlight{
+    background-color: rgb(209, 140, 13);
+}
