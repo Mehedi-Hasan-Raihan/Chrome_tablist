@@ -1,7 +1,8 @@
 body{
-    background-color: aqua;
+    background-color: rgb(2, 60, 11);
     margin: 0px;
 }
-h1{
-    text-align: center;
+.headline{
+text-align: center;
+font-size: 200%;
 }
